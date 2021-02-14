@@ -1,0 +1,74 @@
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe.config
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.pdb
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Form1.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Properties.Resources.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.GenerateResource.Cache
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.exe
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.pdb
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Login.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\MySql.Data.dll
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\Renci.SshNet.dll
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Product.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Popup.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.popupNon.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.add_Cus.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sale.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Loader.resources
+C:\Users\Lavanjan\Documents\Visual Studio 2015\Projects\Black_Lotus_CSharp\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sales_Details.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe.config
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.pdb
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.add_Cus.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Form1.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Loader.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Popup.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Login.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.popupNon.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Properties.Resources.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sale.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sales_Details.resources
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.CopyComplete
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.exe
+C:\Users\Admin\source\repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.pdb
+C:\Users\Admin\Source\Repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Client.resources
+C:\Users\Admin\Source\Repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Project.resources
+C:\Users\Admin\Source\Repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Employee.resources
+C:\Users\Admin\Source\Repos\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Leave.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe.config
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.exe
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Black_Lotus_CSharp.pdb
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\Renci.SshNet.dll
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csprojAssemblyReference.cache
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.add_Cus.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Form1.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Popup.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Login.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.popupNon.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Client.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Employee.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Leave.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Properties.Resources.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Project.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sale.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.Sales_Details.resources
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.GenerateResource.cache
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.csproj.CopyComplete
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.exe
+C:\Users\lspir\OneDrive\Desktop\Windows-assignment\Black_Lotus_CSharp\obj\Debug\Black_Lotus_CSharp.pdb
